@@ -1,0 +1,13 @@
+Package: com.v1s10n4.carriernamechanger
+Name: CarrierNameChanger
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change carrier name in statusbar by custom text!
+Maintainer: v1s10n_4 <vision4@hotmail.fr>
+Author: v1s10n_4 <vision4@hotmail.fr>
+Section: StatusBar
+Icon: https://vision-4.github.io/repo/depictions/carrier.png
+Depiction: https://vision-4.github.io/repo/depictions/?p=com.v1s10n4.CarrierNameChanger
+Support: https://vision-4.github.io/repo
+Tag: purpose::tweak, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12

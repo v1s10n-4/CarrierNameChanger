@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enter the text you want to put in place of carrier name</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.v1s10n4.CarrierNameChangerprefs</string>
+			<key>key</key>
+			<string>text</string>
+			<key>default</key>
+			<string>fesse</string>
+			<key>label</key>
+			<string>your text:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.v1s10n4.CarrierNameChangerprefs</string>
+			<key>label</key>
+			<string>Apply</string>
+			<key>action</key>
+			<string>apply</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Made with 🍑 by: v1s10n_4</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>CarrierNameChanger</string>
+</dict>
+</plist>
